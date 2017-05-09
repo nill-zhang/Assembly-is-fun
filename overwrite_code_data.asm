@@ -1,6 +1,6 @@
 
 ; by sfzhang 2017.5.9
-; this program overwrites the 8 data words of the code 
+; this program overwrites the 8 data words stored at the beginning of the current program 
 ; with data from memory location 0:0h
 assume cs: overwrite_codedata
 
