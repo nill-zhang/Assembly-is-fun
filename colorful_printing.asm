@@ -1,4 +1,4 @@
-
+; by sfzhang 2017.5.13
 ; this program prints a string at the center of the screen
 assume cs:code ds:data
  

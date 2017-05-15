@@ -1,4 +1,4 @@
-
+; by sfzhang 2017.5.10
 ; this program switches the case of a given string's alphabetic character
 
 assume cs:code,ds:data

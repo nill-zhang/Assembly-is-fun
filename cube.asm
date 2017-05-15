@@ -1,6 +1,6 @@
 
-; by sfzhang @2017.5.9
-; this program calculate a number's cube 
+; by sfzhang @2017.5.10
+; this program calculates a number's cube 
 assume cs: code,ds: data
  
 data segment
